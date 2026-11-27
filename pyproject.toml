@@ -52,7 +52,7 @@ dependencies = [
 
 [project.optional-dependencies]
 mcp = [
-    "mcp>=1.29.0,<2.0.0",
+    "mcp>=1.29.0,<3.0.0",
 ]
 langgraph-dev = [
     "langgraph-cli[inmem]>=0.4.14",
